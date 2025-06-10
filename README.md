@@ -70,3 +70,10 @@ The final model achieves high validation accuracy on distinguishing cats from do
 4. Launch the notebook:
    ```bash
    jupyter notebook Cats_v_dogs_classification_using_CNN.ipynb
+
+## ✍️ Author
+   Prateek Gupta – @prateek-g-bit
+   
+
+
+   
